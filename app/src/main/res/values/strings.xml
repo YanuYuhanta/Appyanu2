@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nobar Film</string>
+    <string name="error_fetch_movies">Please check your internet connection</string>
+</resources>
